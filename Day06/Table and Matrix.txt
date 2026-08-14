@@ -1,0 +1,33 @@
+Table and Matrix
+----------------
+1. table
+2. formatting table
+3. conditional formatting
+4. changing aggregation in table
+5. creating a matrix 
+6. conditional formatting in matrix
+7. automatic hierarchy in matrix
+8. subtotal and grand total
+9. number formatting in table and matrix
+
+10. Tree map 
+11. Water fall 
+12. Number Card
+13. Text Card
+14. Date Card
+
+"₹" #,0.###############;"₹" -#,0.###############;"₹" #,0.###############
+
+"$" #,0.###;"$" -#,0.###;"$" #,0.###
+
+
+Highest Sales  : Phone
+Highest Profit : Copiers
+Highest Qty    : Binders
+
+
+
+
+
+
+
